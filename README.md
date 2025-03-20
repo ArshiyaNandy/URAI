@@ -63,13 +63,6 @@ We welcome contributions! Feel free to open an issue or submit a pull request.
 Have questions or feedback? Reach out at:
 📩 Email: arshiyanandy1731@gmail.com
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Feel free to tweak the content and add your GitHub repo link or any additional details if needed! 🎉
-
-
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
